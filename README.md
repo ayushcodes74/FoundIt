@@ -1,6 +1,6 @@
-# Findly — Campus Lost & Found
+# FoundIt — Campus Lost & Found
 
-Findly is a campus-focused Lost & Found web application built using the MERN stack. It provides a common platform where students can report items they have lost and list items they have found on campus.
+FoundIt is a campus-focused Lost & Found web application built using the MERN stack. It provides a common platform where students can report items they have lost and list items they have found on campus.
 
 The platform organizes reports into separate Lost and Found sections, making it easier for students to discover missing belongings and help return them to their rightful owners.
 
