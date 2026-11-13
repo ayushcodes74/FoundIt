@@ -1,0 +1,14 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-width: 320px;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid #83b99a;
+  outline-offset: 3px;
+}
